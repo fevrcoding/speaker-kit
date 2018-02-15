@@ -22,7 +22,7 @@ Per quanto riguarda il talk e le slide, sentiti libero di utilizzare gli strumen
 
 Ti chiediamo solo un paio di cose:
 
-* Ci farebbe piacere se riuscissi ad aggiungere il logo FEVR almeno sulla prima o sull’ultima slide del talk; [lo trovi qui](assets/logo-fevr.zip) in un paio di versioni. Se questo non fosse possibile, non importa; non ce la prendiamo 😩
+* Ci farebbe piacere se riuscissi ad aggiungere il logo FEVR almeno sulla prima o sull’ultima slide del talk; [lo trovi qui](assets/fevr-logo.zip) in un paio di versioni. Se questo non fosse possibile, non importa; non ce la prendiamo 😩
 * Ricordati che il talk dura circa **30 / 40 minuti** e che prevede qualche minuto finale per le **domande**. Comunque sappiamo che quando si parla di cose che piacciono è facile perdere la cognizione del tempo, quindi se sfori non ti preoccupare.
 * C’è un bel proiettore, quindi nessun problema. Se però devi usare media particolari come condivisioni realtime o caschi VR faccelo sapere così ci organizziamo per tempo.
 * FEVR ha adottato da qualche tempo un proprio [**codice di condotta**](http://www.fevr.it/code-of-conduct/). Nel limite del possibile ci piacerebbe che i partecipanti e gli speaker lo tenessero a cuore.
