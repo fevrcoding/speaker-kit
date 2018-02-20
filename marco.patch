@@ -1,0 +1,34 @@
+From 94c7da9e59ee1f23425c49646dfe3c82a744f88d Mon Sep 17 00:00:00 2001
+From: Marco Albarelli <info@marcoalbarelli.eu>
+Date: Thu, 15 Feb 2018 11:51:50 +0100
+Subject: [PATCH] Added instructions for the fevr-taxi-service
+
+---
+ speaker-guide.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/speaker-guide.md b/speaker-guide.md
+index d582b35..66b38bb 100644
+--- a/speaker-guide.md
++++ b/speaker-guide.md
+@@ -38,6 +38,8 @@ Teoricamente con l'**auto** è un po' più comoda da raggiungere poiché è abba
+ 
+ Con il **treno** puoi scendere a **Verona Porta Nuova** e da lì prendere l’autobus (il biglietto lo trovi in tabaccheria o sul mezzo). Come numero puoi prendere o il **21 direzione S. Giovanni Lupatoto** o il **22 direzione Pozzo** ambedue fino alla fermata **Via Garofoli 2**.
+ 
++Se vieni in treno contattaci, probabilmente riusciamo a organizzarci per portarti dalla stazione ad Aquest e viceversa se ci dai un po' di preavviso
++
+ L'evento inizia alle **19:00**, se riesci ad arrivare un po' prima meglio che facciamo un test per vedere se va tutto. Ci sono sempre circa **30 minuti di aperitivo e networking**, quindi si parte con il talk. Di solito facciamo sia delle foto che una diretta su Facebook.
+ 
+ Sul posto c'è un proiettore con **presa HDMI**. Se ti serve l'adattatore facci sapere la presa per cui ti serve. C’è una **presa elettrica** per lo speaker ma è meglio se hai il laptop carico, che non si sa mai. C'è inoltre una **connessione wireless veloce**, quindi nessun problema di download. Abbiamo anche un **controller remoto per le slide**, nel caso dovesse servirti.
+@@ -55,6 +57,8 @@ Ok mi pare sia tutto. Ti lasciamo anche i nostri contatti per comunicazioni, dom
+   e-mail: j8.matteo@gmail.com
+ * **Marco Solazzi**  
+   e-mail: marco.solazzi@gmail.com
++* **Marco Albarelli**
++  e-mail: marco.albarelli@gmail.com
+ 
+ A presto e grazie ancora!  
+-Matteo e Marco
++Matteo e Marco²
+-- 
+2.7.4

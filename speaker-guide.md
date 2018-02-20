@@ -29,14 +29,15 @@ Ti chiediamo solo un paio di cose:
 
 ## Il giorno dell’evento
 
-La location è la sede [**AQuest**](https://www.aquest.it/en) di San Giovanni Lupatoto appena fuori Verona.
+La location è la sede [**AQuest**](https://www.aquest.it/) di San Giovanni Lupatoto appena fuori Verona.
 
 https://goo.gl/maps/V5q6kMTkQME2
 
 Teoricamente con l'**auto** è un po' più comoda da raggiungere poiché è abbastanza vicina a **Verona Sud**, ma occhio che a quell'ora potresti trovare un po' di traffico.
 
 
-Con il **treno** puoi scendere a **Verona Porta Nuova** e da lì prendere l’autobus (il biglietto lo trovi in tabaccheria o sul mezzo). Come numero puoi prendere o il **21 direzione S. Giovanni Lupatoto** o il **22 direzione Pozzo** ambedue fino alla fermata **Via Garofoli 2**.
+Con il **treno** puoi scendere a **Verona Porta Nuova** e da lì prendere l’autobus (il biglietto lo trovi in tabaccheria o sul mezzo). Come numero puoi prendere o il **21 direzione S. Giovanni Lupatoto** o il **22 direzione Pozzo** ambedue fino alla fermata **Via Garofoli 2**.  
+Inoltre, se ci dai un po' di preavviso, probabilmente riusciremo a organizzarci per portarti dalla stazione ad AQuest e viceversa. 
 
 L'evento inizia alle **19:00**, se riesci ad arrivare un po' prima meglio che facciamo un test per vedere se va tutto. Ci sono sempre circa **30 minuti di aperitivo e networking**, quindi si parte con il talk. Di solito facciamo sia delle foto che una diretta su Facebook.
 
@@ -55,6 +56,8 @@ Ok mi pare sia tutto. Ti lasciamo anche i nostri contatti per comunicazioni, dom
   e-mail: j8.matteo@gmail.com
 * **Marco Solazzi**  
   e-mail: marco.solazzi@gmail.com
+* **Marco Albarelli**  
+  e-mail: marco.albarelli@gmail.com
 
 A presto e grazie ancora!  
-Matteo e Marco
+Frontenders Verona
