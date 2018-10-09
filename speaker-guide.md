@@ -36,8 +36,7 @@ https://goo.gl/maps/V5q6kMTkQME2
 Teoricamente con l'**auto** è un po' più comoda da raggiungere poiché è abbastanza vicina a **Verona Sud**, ma occhio che a quell'ora potresti trovare un po' di traffico.
 
 
-Con il **treno** puoi scendere a **Verona Porta Nuova** e da lì prendere l’autobus (il biglietto lo trovi in tabaccheria o sul mezzo). Come numero puoi prendere o il **21 direzione S. Giovanni Lupatoto** o il **22 direzione Pozzo** ambedue fino alla fermata **Via Garofoli 2**.  
-Inoltre, se ci dai un po' di preavviso, probabilmente riusciremo a organizzarci per portarti dalla stazione ad AQuest e viceversa. 
+Con il **treno** puoi scendere a **Verona Porta Nuova**. Se ci dai un po' di preavviso, probabilmente riusciremo a organizzarci per portarti dalla stazione ad AQuest e viceversa. Nel caso non fosse possibile, dalla stazione puoi prendere l’autobus (il biglietto lo trovi in tabaccheria o sul mezzo) **21 direzione S. Giovanni Lupatoto** o **22 direzione Pozzo** ambedue fino alla fermata **Via Garofoli 2**.  
 
 L'evento inizia alle **19:00**, se riesci ad arrivare un po' prima meglio che facciamo un test per vedere se va tutto. Ci sono sempre circa **30 minuti di aperitivo e networking**, quindi si parte con il talk. Di solito facciamo sia delle foto che una diretta su Facebook.
 
