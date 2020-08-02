@@ -24,10 +24,12 @@ Ti chiediamo solo un paio di cose:
 
 * Ci farebbe piacere se riuscissi ad aggiungere il logo FEVR almeno sulla prima o sull’ultima slide del talk; [lo trovi qui](assets/fevr-logo.zip) in un paio di versioni. Se questo non fosse possibile, non importa; non ce la prendiamo 😩
 * Ricordati che il talk dura circa **30 / 40 minuti** e che prevede qualche minuto finale per le **domande**. Comunque sappiamo che quando si parla di cose che piacciono è facile perdere la cognizione del tempo, quindi se sfori non ti preoccupare.
-* C’è un bel proiettore, quindi nessun problema. Se però devi usare media particolari come condivisioni realtime o caschi VR faccelo sapere così ci organizziamo per tempo.
+* (per i talk in presenza) C’è un bel proiettore, quindi nessun problema. Se però devi usare media particolari come condivisioni realtime o caschi VR faccelo sapere così ci organizziamo per tempo.
 * FEVR ha adottato da qualche tempo un proprio [**codice di condotta**](http://www.fevr.it/code-of-conduct/). Nel limite del possibile ci piacerebbe che i partecipanti e gli speaker lo tenessero a cuore.
 
 ## Il giorno dell’evento
+
+### Eventi in presenza a Verona
 
 La location è la sede [**Officina 18**](https://www.officina18.it/) appena fuori dal casello di Verona Sud.
 
@@ -40,6 +42,14 @@ L'evento inizia alle **19:00**, se riesci ad arrivare un po' prima meglio che fa
 Sul posto c'è un proiettore con **presa HDMI**. Se ti serve l'adattatore facci sapere la presa per cui ti serve. C’è una **presa elettrica** per lo speaker ma è meglio se hai il laptop carico, che non si sa mai. C'è inoltre una **connessione wireless veloce**, quindi nessun problema di download.
 
 Dopo l’evento chi vuole si ferma per cena in un locale in zona. Essendo uno speaker, naturalmente, la tua cena la offre FEVR. Se non puoi fermarti ci dispiace 😭; vediamo di ritrovarci di nuovo per festeggiare insieme 😆
+
+### Eventi in streaming
+
+L'evento, se non diversamente specificato, sarà trasmesso in live streaming sul nostro [gruppo Facebook](https://www.facebook.com/groups/frontendersverona) a partire dalle **19:00**. Poco prima dell'inizio dell'evento, l'host della serata ti inviterà ad accedere sulla piattaforma [**StreamYard**](https://streamyard.com/), dalla quale potrai condividere il tuo schermo per visualizzare le slide.
+
+Un piccolo consiglio: munisciti di auricolari con microfono in modo da rendere l'audio il più chiaro possibile :sunglasses:.
+
+Se vuoi avere un'idea di come si svolge uno dei nostri meetup in streaming, puoi trovare le registrazioni degli eventi precedenti sul nostro [gruppo Facebook](https://www.facebook.com/groups/frontendersverona).
 
 ## Dopo l’evento
 
