@@ -45,7 +45,7 @@ Dopo l’evento chi vuole si ferma per cena in un locale in zona. Essendo uno sp
 
 ### Eventi in streaming
 
-L'evento, se non diversamente specificato, sarà trasmesso in live streaming sul nostro [gruppo Facebook](https://www.facebook.com/groups/frontendersverona) a partire dalle **19:00**. Poco prima dell'inizio dell'evento, l'host della serata ti inviterà ad accedere sulla piattaforma [**StreamYard**](https://streamyard.com/), dalla quale potrai condividere il tuo schermo per visualizzare le slide.
+L'evento, se non diversamente specificato, sarà trasmesso in live streaming sul nostro [gruppo Facebook](https://www.facebook.com/groups/frontendersverona) a partire dalle **19:00**. Poco prima dell'inizio dell'evento, l'host della serata ti inviterà ad accedere sulla piattaforma [**Restream**](https://restream.io/), dalla quale potrai condividere il tuo schermo per visualizzare le slide.
 
 Un piccolo consiglio: munisciti di auricolari con microfono in modo da rendere l'audio il più chiaro possibile :sunglasses:.
 
@@ -62,8 +62,6 @@ Ok mi pare sia tutto. Ti lasciamo anche i nostri contatti per comunicazioni, dom
   e-mail: j8.matteo@gmail.com
 * **Marco Solazzi**  
   e-mail: marco.solazzi@gmail.com
-* **Marco Albarelli**  
-  e-mail: marco.albarelli@gmail.com
 
 A presto e grazie ancora!  
 Frontenders Verona
